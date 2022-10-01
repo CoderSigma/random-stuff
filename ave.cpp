@@ -1,4 +1,4 @@
-\* Header, iostream means
+/* Header, iostream means
  input output stream */
 #include <iostream>
 
@@ -48,6 +48,7 @@ int main()
     malaman nyo */
     system("pause");
 
-    /* return 0 alam nyo naman na siguro yan */
+    /* return 0 alam nyo naman na siguro yan 
+    wag kalimutan ang semi colon ha*/
     return 0;
 }      
